@@ -8,14 +8,12 @@
 - [cricri777](https://github.com/cricri777)
 
 - [sm0rux](https://github.com/sm0rux)
-- [tran-phillip](https://github.com/tran-phillip)
 -[generationXcode](https://github.com/generationXcode)
 - [manojranak1](https://github.com/manojranak1)
 - [Ryan Wilson](https://github.com/rwils83)
 - [Siddharth Kundu](https://github.com/sid995)
 - [lisalidroit](https://github.com/lisalidroit))
 - [Vaibhav](https://github.com/vaibhav60)
-- [Cornelius Denninger](https://github.com/colodenn)
 - [Shanedolin](https://github.com/Shanedolin)
 - [Mohamednuuh] (https://github.com/mohamednuuh)
 - [Leonid Kozak] (https://github.com/SkimFelBon)
@@ -39,7 +37,6 @@
 - [Daemon1024](https://github.com/daemon1024)
 - [Devil-Echo]
 - [Nithin Muthukumar](https://github.com/nithinmuthukumar)
-- [Vaibhav Pandey](https://github.com/vaibhap1)
 - [Tyler Lawton](https://github.com/thor-molecules)
 - [Kwon Hur](https://github.com/kwonhur)
 - [Dominic London](https://github.com/djlondon)
@@ -103,7 +100,6 @@
 - [Matt Palmer] ( https://github.com/mattppal )
 - [Michaela Greiler](https://github.com/mgreiler)
 - Stefan
-- [Callum McFadgen](https://github.com/CallumMcFadgen)
 - Mike
 - [Harun Mwangi](https://github.com/HarunJr)
 - Mihri Ceren
@@ -170,7 +166,6 @@ Haris Siddiqui
 - Anthony Luttrell
 - Glen Edwards
 - Christian Torbica
-- [Jason MacDonald](https://github.com/Jason-MacDonald)
 - John Fletcher
 - [Michael Moran](https://github.com/Donovoi)
 - [Kelsey Benjamin] (https://github.com/KelseyBenjamin)
@@ -209,7 +204,6 @@ Haris Siddiqui
 - [Pako Gonzalez](https://github.com/pako-gonzalez)
 - [Charles Obekpa](https://github.com/kaizem24)
 - [Sam](https://github.com/Montblac)
-- [Ethan Thomason](https://github.com/Datal0re)
 - [Cormac Lawlor](https://github.com/armedcor)
 - [David Hanover](https://github.com/DavidHanover)
 - [Seth Lachman](https://github.com/stlachman)
@@ -264,7 +258,6 @@ Haris Siddiqui
 - Josh Hageman
 - Evan H (https://github.com/ehmh123)
 -Tal Khan
--Shantal Ewell
 - Satvinder Singh
 -Jairaj Sahgal (https://jairajsahgal.github.io)
 - [Gionelle Tribiana](https://github.com/gionellef)
@@ -332,7 +325,6 @@ Haris Siddiqui
 - [William Eller](https://github.com/WilliamEller)
 - [Ashish Singh](https://github.com/ashish-iitr)
 - [Ri Xin Yang](https://github.com/MatoPlus)
-- [Paul Taplett](https://github.com/taplett/)
 -[Babatunde Ololade ](https://github.com/Babatunde50)
 - Mofo Johnson
 - [Mohammad Haider](https://github.com/haidmoham/)
@@ -366,7 +358,6 @@ Haris Siddiqui
 - Evangelos Mag.
 - Abhijeet Ghosh
 - Ahmad
-- Daniel Jelenici
 - [Beaudry Chase](https://github.com/beaudrychase)
 - Shiraaz Ahammed
 - Raj
@@ -884,7 +875,6 @@ Stephan Sharpe
 - [Subram Panaiyadiyan](https://github.com/psubrambe)
 - [Jose Arteaga](https://github.com/HoseBee)
 - [Felix Melligan](https://github.com/felix-melligan)
-- [SherryLeen](https://github.com/SherryLeen`)
 - [Alexander Schlesinger](https://github.com/alexschles)
 - [rjmax13](https://github.com/rjmax13)
 - [shreejeetp](https://github.com/shreejeetp)
@@ -9446,7 +9436,6 @@ Stephan Sharpe
 - [zernab1](https://github.com/zernab1)
 - [Alexey Zhitnik](https://github.com/azhitnik)
 - [Mehdi Saffar](https://github.com/MehdiSaffar)
-- [Jonathan Macgregor](https://github.com/DualWielder)
 - [Sean Asiala](https://github.com/asialasr)
 - [Santatra](https://github.com/nirinarisantatra)
 - [Daryl Mae](https://github.com/darmae)
@@ -15855,10 +15844,7 @@ Mário Baltazar
 - [Boomly](https://github.com/Boomly)
 - [tjalsdud](https://github.com/tjalsdud89)
 - [NatanStec](https://github.com/NatanStec)
-- [Kenneth Nguyen](https://github.com/KennethNguyen)
 -[keojo](https://github.com/keojo)
 -[hunterdanielson](https://github.com/hunterdanielson)
 -[bilgehannevruz](https://github.com/bilgehannevruz)
 -[TanujRohatgi](https://github.com/TanujRohatgi)
--[DarkAEther](https://github.com/DarkAEther)
-[KleinDevDE](https://github.com/KleinDevDE)
